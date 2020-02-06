@@ -11,9 +11,9 @@
 #
 # Happy Coding!
 
-service: mvp-lambdafunctions
+service: mvp-source-lambdas
 # app and org for use with dashboard.serverless.com
-app: mvp-lambdafunctions
+app: mvp-source-lambdas
 org: shinedesign
 
 custom:
